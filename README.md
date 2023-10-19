@@ -1,0 +1,2 @@
+# story
+İlk git projem.
